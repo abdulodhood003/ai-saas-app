@@ -35,6 +35,4 @@
 
 ---
 
-## 🖼️ Demo Screenshots
 
-> *(Replace with real images)*  
