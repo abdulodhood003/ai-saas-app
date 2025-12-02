@@ -1,8 +1,25 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulodhood003/ai-saas-app/main/assets/hero.svg" width="900" />
+</p>
 
+<h1 align="center">🚀 Imagify – AI SaaS Text-to-Image Generator (MERN Stack)</h1>
 
-<h1 align="center">🚀 AI SaaS – Text-to-Image Generator (MERN Stack)</h1>
+<p align="center">Generate stunning AI images using text prompts, powered by ClipDrop API. Built with MERN Stack + Credit System + Online Payments.</p>
 
-<p align="center">A modern AI SaaS application using MongoDB, Express, React, Node.js, ClipDrop API, and a Credit Payment System.</p>
+---
+
+<p align="center">
+  <a href="https://ai-saas-frontend-orpin.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Imagify%20AI-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+## 🌐 Live Deployment
+
+🚀 **Imagify Live App:**  
+👉 **https://ai-saas-frontend-orpin.vercel.app/**
 
 ---
 
@@ -22,4 +39,4 @@
 
 ## 🖼️ Demo Screenshots
 
-> *(Replace with your real images)*  
+> *(Replace with real images)*  
