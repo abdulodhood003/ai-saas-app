@@ -1,25 +1,27 @@
-# 🚀 AI SaaS – Text-to-Image Generator (MERN Stack)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulodhood003/ai-saas-app/main/assets/hero.svg" width="900" />
+</p>
 
-A modern Full Stack AI SaaS application built with **MongoDB, Express, React, and Node.js**.  
-This app allows users to generate AI images using a **credit system**, purchase credits via an online payment gateway, and authenticate securely.  
-Image generation is powered by the **ClipDrop API**.
+<h1 align="center">🚀 AI SaaS – Text-to-Image Generator (MERN Stack)</h1>
+
+<p align="center">A modern AI SaaS application using MongoDB, Express, React, Node.js, ClipDrop API, and a Credit Payment System.</p>
 
 ---
 
 ## ✨ Features
 
-- 🎨 **AI Text-to-Image Generator** using ClipDrop API  
-- 🔐 **User Authentication** (Register/Login) with JWT  
-- 💳 **Credit System** – Image generation deducts credits  
-- 🛒 **Online Payment Gateway** to purchase more credits  
-- 🗄️ **MongoDB Database** for user & credit storage  
-- ⚙️ **Secure REST API** using Express + Node  
-- ⚛️ **Modern React Frontend** (Vite)  
-- 📱 **Fully Responsive Design**  
-- 🛠️ **Scalable MERN Architecture**
+- 🎨 **AI Text-to-Image Generator** (ClipDrop API)
+- 🔐 **User Authentication (JWT + MongoDB)**
+- 💳 **Credit System** for generating images
+- 🛒 **Online Payment Gateway** to buy more credits
+- 📦 **Full MERN Stack Architecture**
+- ⚛️ **Modern UI built with React + Vite**
+- 🔥 **Super-fast API with Express + Node.js**
+- 📁 **User data stored securely in MongoDB**
+- 📱 **Fully responsive & mobile-friendly**
 
 ---
 
-## 📸 Screenshots  
-> *(Replace with your screenshots)*
+## 🖼️ Demo Screenshots
 
+> *(Replace with your real images)*  
