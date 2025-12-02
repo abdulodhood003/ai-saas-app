@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulodhood003/ai-saas-app/main/assets/hero.svg" width="900" />
-</p>
+
 
 <h1 align="center">🚀 AI SaaS – Text-to-Image Generator (MERN Stack)</h1>
 
