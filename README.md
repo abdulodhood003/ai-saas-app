@@ -1,38 +1,79 @@
-
-
 <h1 align="center">🚀 Imagify – AI SaaS Text-to-Image Generator (MERN Stack)</h1>
 
-<p align="center">Generate stunning AI images using text prompts, powered by ClipDrop API. Built with MERN Stack + Credit System + Online Payments.</p>
+<p align="center">Generate stunning AI images using text prompts, powered by ClipDrop API. Built with MERN Stack, Credit System, and Online Payments.</p>
 
 ---
 
-<p align="center">
-  <a href="https://ai-saas-frontend-orpin.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Imagify%20AI-blue?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+<h3 align="center">
+  🔗 <a href="https://ai-saas-frontend-orpin.vercel.app/" target="_blank">Live Demo</a>
+</h3>
 
 ---
 
-## 🌐 Live Deployment
+## 🖼️ Project Preview
 
-🚀 **Imagify Live App:**  
-👉 **https://ai-saas-frontend-orpin.vercel.app/**
+> Add your screenshots here  
+> Example:
+>
+> ```md
+> ![Preview](https://your-screenshot-link.png)
+> ```
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🎨 **AI Text-to-Image Generator** (ClipDrop API)
+### 🧾 Core Functionality
+- 🎨 **AI Text-to-Image Generation** (ClipDrop API)
 - 🔐 **User Authentication (JWT + MongoDB)**
 - 💳 **Credit System** for generating images
-- 🛒 **Online Payment Gateway** to buy more credits
-- 📦 **Full MERN Stack Architecture**
-- ⚛️ **Modern UI built with React + Vite**
-- 🔥 **Super-fast API with Express + Node.js**
-- 📁 **User data stored securely in MongoDB**
+- 🛒 **Buy Credits Online** through integrated payment gateway
+- ⚛️ **Modern UI with React + Tailwind + Vite**
+- ⚡ **Express.js + Node.js Backend**
+- 🗄️ **Secure MongoDB database storage**
 - 📱 **Fully responsive & mobile-friendly**
 
 ---
 
+## 🧠 How It Works
+1. User creates an account or logs in  
+2. User enters a text prompt  
+3. Backend sends request to **ClipDrop AI API**  
+4. AI generates an image and sends it back  
+5. Credits are deducted from the user  
+6. If credits run low → user buys more credits  
+
+---
+
+## 🧩 Tech Stack
+
+### **Frontend**
+- ⚛️ React.js  
+- 🧭 React Router  
+- 🎨 Tailwind CSS  
+- ⚡ Vite  
+- 🔔 React Toastify  
+- 🔗 Axios  
+
+### **Backend**
+- 🟢 Node.js  
+- 🚀 Express.js  
+- 🗄️ MongoDB + Mongoose  
+- 🔐 JWT Authentication  
+- 🔏 Bcrypt.js  
+
+### **AI**
+- 🤖 ClipDrop Text-to-Image API  
+
+---
+
+## 🌐 Deployment
+
+- **Frontend:** Vercel  
+- **Backend:** Vercel (Serverless Functions)  
+- **Database:** MongoDB Atlas  
+
+---
+
+## 🛠️ Project Structure
 
