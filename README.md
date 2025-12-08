@@ -10,16 +10,7 @@
 
 ---
 
-## 🖼️ Project Preview
 
-> Add your screenshots here  
-> Example:
->
-> ```md
-> ![Preview](https://your-screenshot-link.png)
-> ```
-
----
 
 ## 🚀 Features
 
@@ -74,6 +65,11 @@
 - **Database:** MongoDB Atlas  
 
 ---
+### **👨‍💻 Developer**
 
-## 🛠️ Project Structure
+- Abdul Odudood M.A.K
+- 💼 MERN Stack Developer
+- 🌐 (https://aurafit-frontend.vercel.app/login)
+- 📧 [abdulodudood@gmail.com]
+
 
