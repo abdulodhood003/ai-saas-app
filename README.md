@@ -69,7 +69,7 @@
 
 - Abdul Odudood M.A.K
 - 💼 MERN Stack Developer
-- 🌐 (https://aurafit-frontend.vercel.app/login)
+- 🌐 https://ai-saas-frontend-orpin.vercel.app/
 - 📧 [abdulodudood@gmail.com]
 
 
